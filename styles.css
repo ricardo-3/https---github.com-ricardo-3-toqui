@@ -1,12 +1,15 @@
 body {
     
     background-image: url(img/Fondo.png);
+    width: auto;
+    height: 900px;
     /*background: linear-gradient(to left, #000000, #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     letter-spacing: 2px;
     margin-bottom: 20vh;
+    
 }
 
 img {
